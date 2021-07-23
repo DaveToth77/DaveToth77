@@ -1,4 +1,4 @@
-### Hi there, I'm dave 👋
+### Hi there, I'm Dave 👋
 
 
 - 🔭 I’m currently working on completing a Full Stack Web Developer course.
