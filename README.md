@@ -5,8 +5,8 @@
 ### Hi there, I'm Dave 👋
 
 
-- 🔭 I’m currently working on completing a Full Stack Web Developer course.
-- 🌱 I’m currently learning at UConn
+- 🔭 I’m currently working on completing a Full Stack Web Developer course at UConn.
+- 🌱 I’m currently learning at mysql
 - 👯 I’m looking to collaborate on EVERYTHING
 - 🤔 I’m looking for help with EVERYTHING
 - 💬 Ask me about anything
