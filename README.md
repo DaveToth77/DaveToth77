@@ -25,7 +25,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2021 - 06 October, 2021
+Week: 01 October, 2021 - 07 October, 2021
 
 JavaScript   9 hrs 34 mins   ████████████████▒░░░░░░░░   65.42 % 
 SQL          3 hrs 57 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.04 % 
