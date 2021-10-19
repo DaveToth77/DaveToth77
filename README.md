@@ -1,6 +1,3 @@
-![Dave](https://user-images.githubusercontent.com/85111342/134810279-b830f802-03bb-4468-8ff8-9ea0d339aa8d.gif)
-
-
 
 ### Hi there, I'm Dave 👋
 
