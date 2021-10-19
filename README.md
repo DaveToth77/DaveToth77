@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on completing a Full Stack Web Developer course at UConn.
-- 🌱 I’m currently learning mysql
+- 🌱 I’m currently learning Handlebars
 - 👯 I’m looking to collaborate on EVERYTHING
 - 🤔 I’m looking for help with EVERYTHING
 - 💬 Ask me about anything
