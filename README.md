@@ -1,13 +1,6 @@
 
-### Hi there, I'm Dave 👋
+### Hi there👋, I'm Dave
 
-
-- 🔭 I’m currently working on completing a Full Stack Web Developer course at UConn.
-- 🌱 I’m currently learning Handlebars
-- 👯 I’m looking to collaborate on EVERYTHING
-- 🤔 I’m looking for help with EVERYTHING
-- 💬 Ask me about anything
-- 📫 How to reach me: email- davetoth77@gmail.com
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -20,14 +13,3 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davetoth77&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<!--START_SECTION:waka-->
-```text
-Week: 13 October, 2021 - 19 October, 2021
-
-JavaScript   14 hrs 15 mins  ████████████████████▒░░░░   80.93 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-JSON         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Bash         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-```
-<!--END_SECTION:waka-->
