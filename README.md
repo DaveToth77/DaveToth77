@@ -5,9 +5,9 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on Completing a Full Stack coding bootcamp
+- 🔭 I’m currently working on Completing a Full Stack coding bootcamp and the 50 projects course
 
-- 🌱 I’m currently learning Handlebars 
+- 🌱 I’m currently learning React 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
