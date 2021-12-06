@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Completing a Full Stack coding bootcamp and the 50 projects course
 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React and GraphQL
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
@@ -23,6 +23,14 @@
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+
+
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davetoth77&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
