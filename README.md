@@ -5,9 +5,9 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on a group project called Kindly, stay tuned.
+- 🔭 I’m currently working on a group project called Kindly.
 
-- 🌱 I’m currently learning React and GraphQL
+- 🌱 I’m currently learning React and Typescript
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
