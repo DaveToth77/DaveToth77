@@ -16,7 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://portfolio-davetoth
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [My Full Stack Boot Camp Experience in 2021](https://medium.com/@dtoth77/my-full-stack-boot-camp-experience-in-2021-144fe25f1d0e?source=rss-6ba845d9f564------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
