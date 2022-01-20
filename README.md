@@ -1,15 +1,19 @@
-
 </p>
-<div size='20px'> Hi! My name is Dave Toth. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Dave Toth. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 
 <h2> About Me </h2>
+
+# 📩 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 - 🔭 I’m currently working on a group project called Kindly.
 
 - 🌱 I’m currently learning React and Typescript
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+- 👯 I’m looking to collaborate on Projects,Tech Articles
 
 - 💬 Talk to me about JavaScript, React, Open Source and Typescript
 
@@ -30,8 +34,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
-
-
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davetoth77&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
@@ -39,4 +41,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@davetoth77&compact=True"/>
 </a>
   </div>
-
