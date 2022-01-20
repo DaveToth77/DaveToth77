@@ -16,7 +16,7 @@ Want to know more about me? [Check out my portfolio.](https://portfolio-davetoth
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [My Full Stack Boot Camp Experience in 2021](https://medium.com/@dtoth77/my-full-stack-boot-camp-experience-in-2021-144fe25f1d0e?source=rss-6ba845d9f564------2)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -32,6 +32,7 @@ Want to know more about me? [Check out my portfolio.](https://portfolio-davetoth
 </a>
 
 <br>
+<hr style="padding-top: 5px:">
 
 <a href="https://github.com/brentocracy/kindly">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=brentocracy&repo=kindly&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -42,12 +43,14 @@ Want to know more about me? [Check out my portfolio.](https://portfolio-davetoth
 </a>
 
 <br>
+<hr style="padding-top: 5px:">
 
 <a href="https://github.com/DaveToth77/Employee-Tracker">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=davetoth77&repo=Employee-Tracker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
+<hr style="padding-top: 5px:">
 
 <a href="https://github.com/davetoth77">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davetoth77&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -58,6 +61,7 @@ Want to know more about me? [Check out my portfolio.](https://portfolio-davetoth
 </a>
 
 <br>
+<hr style="padding-top: 5px:">
 
 ## 💼 Skills
 
