@@ -5,7 +5,7 @@
 
 <br />
 
-Hey there 👋
+#####Hey there 👋
 
 I'm Dave, a Full Stack Web Developer that has skills in both front and back end applications. I enjoy using innovative techniques as well as a strong attention to detail to get a project done with the clients expectations not only met, but exceeded. I seek a role as a web developer at a company where I can learn, grow, and continue to master the craft.
 
@@ -24,11 +24,11 @@ Want to know more about me? [Check out my portfolio.](https://portfolio-davetoth
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/DaveToth77/deep-thoughts">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=davetoth77&repo=deep-thoughts&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:5px" src="https://github-readme-stats.vercel.app/api/pin/?username=davetoth77&repo=deep-thoughts&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/DaveToth77/MERN-Book-Search">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=davetoth77&repo=MERN-Book-Search&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:5px" src="https://github-readme-stats.vercel.app/api/pin/?username=davetoth77&repo=MERN-Book-Search&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
